@@ -8,7 +8,8 @@ const About = () => {
           {/* Profile Image */}
           <div className="col-md-5 text-center mb-4 mb-md-0">
             <img
-              src="src\assests\img1.jpg"
+              src="./public\assests\img1.jpg"
+              // src="src\assests\img1.jpg"
               alt="Prateek Dawande"
               className="img-fluid rounded-circle shadow"
               style={{ width: "250px", height: "250px", objectFit: "cover" }}
